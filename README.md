@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can Dai</h1>
 <h3 align="center">Currently an MSc Computer Science student at DePaul University with a focus in ML/AI and Backend Software Engineering.</h3>
 
-- 🔭 I’m currently working on **Web Applicatiions & Machine Learning Projects**
+- 🔭 I’m currently working on **Web Applications & Machine Learning Projects**
 
 - 🌱 I’m currently learning **Backend Web Development and Machine Learning Models**
 
