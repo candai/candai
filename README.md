@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can Dai</h1>
 <h3 align="center">Currently an MSc Computer Science student at DePaul University with a focus in ML/AI and Backend Software Engineering.</h3>
-- 👀 I'm actively looking for full time jobs in Software Development and Data Science. If you see me fit for a role, please feel free to reach out!
+
+- 👀 I'm actively looking for **full-time** jobs in **Software Development** and **Data Science**. If you see me fit for a role, please feel free to reach out!
 
 - 🔭 I’m currently working on **Web Applications & Machine Learning Projects**
 
